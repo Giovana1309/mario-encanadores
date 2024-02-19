@@ -48,3 +48,5 @@ JavaScript é uma linguagem de programação de alto nível, interpretada, de ti
 <h1 id="imagem"> Imagem do projeto </h1>
 
 <br>
+
+<img src="https://github.com/Giovana1309/mario-encanadores/blob/main/Novo%20Projeto%20(3).png?raw=true" alt="imagem-do-projeto">
